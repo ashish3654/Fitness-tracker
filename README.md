@@ -21,11 +21,14 @@ A full-stack fitness tracking web app built with **React**, **Node.js**, **Expre
 ## 🚀 How to Run Locally
 
 ### Backend
+```bash
 cd server
 npm install
 npm start
-
+```
 ### Frontend
+```bash
 cd client
 npm install
 npm start
+```
